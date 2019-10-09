@@ -1,2 +1,2 @@
 # HelloWorld
-This is Hello World Program Written inC language
+This is Hello World Program Written in C language
